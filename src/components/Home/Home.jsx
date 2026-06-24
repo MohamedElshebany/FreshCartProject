@@ -4,7 +4,7 @@ import Products from '../Products/Products';
 import Cart from '../Cart/Cart';
 import { CounterContext } from '../../Context/CounterContext';
 import RecentProducts from '../RecentProducts/RecentProducts';
-import CategoriesSlider from '../categoriesSlider/categoriesSlider';
+import CategoriesSlider from '../CategoriesSlider/CategoriesSlider';
 import MainSlider from '../MainSlider/MainSlider';
 
 
